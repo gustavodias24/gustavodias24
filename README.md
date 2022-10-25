@@ -2,8 +2,10 @@
 ## my favorite tools ✌
 
 - 🐍 Python
-- ☕ Java
+- ☕  Java
 - 📜 Typecript
+- 🐋 Docker
+- ⚛️  React 
 
 
 <div align="center">
