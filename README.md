@@ -26,7 +26,7 @@
    <img align="center" alt="HG-C#" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png">
    <img align="center" alt="HG-C#" height="45" width="45" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png">
    <img align="center" alt="HG-C#" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png">
-  
+  ![Snake animation](https://github.com/cleice-farias/cleice-farias/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-![Snake animation](https://github.com/cleice-farias/cleice-farias/blob/output/github-contribution-grid-snake.svg)
+
