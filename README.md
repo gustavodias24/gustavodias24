@@ -22,7 +22,7 @@
   <img align="center" alt="HG-C#" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
   <img align="center" alt="HG-C#" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png">
     <img align="center" alt="HG-C#" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png">
-  <img align="center" alt="HG-C#" height="30" width="30" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png">
+  <img align="center" alt="HG-C#" height="45" width="45" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png">
     
   
 </div>
