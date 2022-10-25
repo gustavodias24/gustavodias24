@@ -22,7 +22,7 @@
   <img align="center" alt="HG-C#" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
   <img align="center" alt="HG-C#" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png">
     <img align="center" alt="HG-C#" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png">
-  <img align="center" alt="HG-C#" height="30" width="30" src="https://toppng.com/uploads/preview/bootstrap-featured-image-bootstrap-3-logo-11563293130teouf93qpu.png">
+  <img align="center" alt="HG-C#" height="30" width="30" src="https://assets.stickpng.com/images/62a76468bd73a4af5c5d4fb7.png">
     
   
 </div>
