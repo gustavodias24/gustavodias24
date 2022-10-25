@@ -3,8 +3,8 @@
 
 - 🐍 Python
 - ☕ Java
-- ✔C
-- ✔C#
+- 📜 Typecript
+- ✔
 - ✔HTML
 - ✔CSS
 
