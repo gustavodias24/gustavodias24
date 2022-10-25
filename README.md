@@ -4,9 +4,7 @@
 - 🐍 Python
 - ☕ Java
 - 📜 Typecript
-- ✔
-- ✔HTML
-- ✔CSS
+
 
 <div align="center">
   <a href="https://github.com/UmJovemProgramador">
