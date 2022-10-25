@@ -21,5 +21,6 @@
   <img align="center" alt="HG-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="HG-DOCKER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="HG-C#" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
+  <img align="center" alt="HG-C#" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png">
   
 </div>
