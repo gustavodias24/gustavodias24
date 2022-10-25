@@ -28,3 +28,5 @@
    <img align="center" alt="HG-C#" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png">
   
 </div>
+
+![Snake animation](https://github.com/cleice-farias/cleice-farias/blob/output/github-contribution-grid-snake.svg)
