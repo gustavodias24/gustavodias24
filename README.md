@@ -6,6 +6,7 @@
 - 📜 Typecript
 - 🐋 Docker
 - ⚛️  React 
+- 🐧 Lnux
 
 
 <div align="center">
