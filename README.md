@@ -8,9 +8,11 @@
 - ⚛️  React 
 - 🐧 Linux
 
-<a href="https://www.linkedin.com/in/gustavo-benicio-9724bb254" target="blank">
-  <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
+<div align="center" >
+  <a href="https://www.linkedin.com/in/gustavo-benicio-9724bb254" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
 
 <div align="center">
   <a href="https://github.com/gustavodias24">
