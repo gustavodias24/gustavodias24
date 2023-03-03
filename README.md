@@ -3,9 +3,8 @@
 
 - 🐍 Python
 - ☕  Java
-- 📜 Typecript
-- 🐋 Docker
-- ⚛️  React 
+- 📜 Shell
+- 🐋 Docker 
 - 🐧 Linux
 
 <div align="center" >
