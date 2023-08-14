@@ -16,7 +16,7 @@
 
 </div>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="HG-HTML" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-flask-51-285137.png?f=webp">
+  <img align="center" alt="HG-HTML" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-flask-51-285137.png?f=webp">
   <img align="center" alt="HG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="HG-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HG-DOCKER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
